@@ -1,0 +1,67 @@
+{
+  "profile": {
+    "name": "notkpc",
+    "tagline": "DJ | Developer",
+    "location": "Buenos Aires, Argentina",
+    "avatar": "/avatar.jpg",
+    "verified": false,
+    "bio": "Un pibe piola. Te ahorré el trabajo de stalkearme."
+  },
+  "links": [
+    {
+      "id": 1,
+      "title": "Kick",
+      "url": "https://kick.com/notkpc",
+      "icon": "kick"
+    },
+    {
+      "id": 2,
+      "title": "Instagram",
+      "url": "https://instagram.com/notkpc",
+      "icon": "instagram"
+    },
+    {
+      "id": 3,
+      "title": "X (Twitter)",
+      "url": "https://twitter.com/notkpc",
+      "icon": "twitter"
+    },
+    {
+      "id": 4,
+      "title": "Discord",
+      "url": "https://discord.com/invite/he3TnjNYzK",
+      "icon": "discord"
+    },
+    {
+      "id": 5,
+      "title": "Steam",
+      "url": "https://steamcommunity.com/id/9q31th48kll33tgq/",
+      "icon": "steam"
+    },
+    {
+      "id": 6,
+      "title": "Spotify",
+      "url": "https://open.spotify.com/user/31cnaid5thku3uhrifr26wxzxw4y?si=efddca5ca864403e",
+      "icon": "spotify"
+    },
+    {
+      "id": 7,
+      "title": "Twitch",
+      "url": "https://twitch.tv/nnotkpc",
+      "icon": "twitch"
+    },
+    {
+      "id": 8,
+      "title": "GitHub",
+      "url": "https://github.com/nvxn",
+      "icon": "github"
+    },
+    {
+      "id": 9,
+      "title": "Contacto",
+      "url": "mailto:contact@notkpc.com",
+      "icon": "mail"
+    }
+  ],
+  "socials": []
+}
